@@ -12,6 +12,8 @@ We give you four challenges below from which you:
 
 Note that, for the implemented solution, we don't expect you to attain the perfect result. What is more important is that you show how you take a structured approach to the chosen problem and that you can implement a working solution.
 
+You will come and present all three (one worked out and two prepared) of your solutions at our office once finished. You will be evaluated on the performance and designs of your solutions, as well as on your presentation skills. 
+
 
 
 ## Pick your challenges 🚀
